@@ -1,2 +1,12 @@
 # grupo3_proyecto1
-Ana Gloria, Franca, Luana, Sandra
+
+#DataMinas
+
+Equipo
+
+* Líder del Proyecto: [Ana Gloria Goméz]
+    * Desarrolladoras:
+    * [Franca Tortarolo]
+    * [Luana Magnabosco]
+    * [Sandra Moreno]
+
