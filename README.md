@@ -62,7 +62,7 @@ Para ejecutar cualquiera de los juegos, sigue estos pasos:
 1. Clona este repositorio en tu máquina local.
 2. Asegúrate de tener Python instalado (versión 3.x).
 3. Navega hasta el directorio del juego que deseas ejecutar.
-4. Ejecuta el script correspondiente utilizando el comando `python juegos-unidos.ipynb`.
+4. Ejecuta el script correspondiente utilizando el comando `python Juegos-Unidos.ipynb`.
 
 ## Conclusión
 
